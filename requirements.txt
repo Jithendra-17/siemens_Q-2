@@ -1,0 +1,19 @@
+The following libraries are necessary for the Python programme to interact with LTSpice:
+
+-> numpy
+-> scipy
+-> matplotlib
+-> ltspice
+
+You can use the pip command in your terminal or command prompt to install these libraries:
+-> numpy: 
+	pip install numpy
+
+-> scipy:
+	pip install scipy
+
+-> matplotlib: 
+	pip install matplotlib
+
+-> ltspice: 
+	pip install git+https://github.com/mgcarey/ltspice.git
